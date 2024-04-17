@@ -73,10 +73,10 @@ PODS:
     - FlipperKit/FlipperKitNetworkPlugin
   - fmt (6.2.1)
   - glog (0.3.5)
-  - google-cast-sdk (4.8.0):
-    - google-cast-sdk/Core (= 4.8.0)
+  - google-cast-sdk (4.8.1):
+    - google-cast-sdk/Core (= 4.8.1)
     - Protobuf (~> 3.13)
-  - google-cast-sdk/Core (4.8.0):
+  - google-cast-sdk/Core (4.8.1):
     - Protobuf (~> 3.13)
   - HMSegmentedControl (1.5.6)
   - libevent (2.1.12)
@@ -294,11 +294,11 @@ PODS:
   - React-jsinspector (0.69.9)
   - React-logger (0.69.9):
     - glog
-  - react-native-google-cast/GuestMode (4.8.0):
+  - react-native-google-cast/GuestMode (4.8.1):
     - google-cast-sdk
     - React
     - react-native-google-cast/RNGoogleCast
-  - react-native-google-cast/RNGoogleCast (4.8.0):
+  - react-native-google-cast/RNGoogleCast (4.8.1):
     - PromisesObjC
     - React
   - react-native-video (6.0.0-alpha.1):

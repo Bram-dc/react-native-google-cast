@@ -73,7 +73,7 @@ PODS:
     - FlipperKit/FlipperKitNetworkPlugin
   - fmt (6.2.1)
   - glog (0.3.5)
-  - google-cast-sdk-no-bluetooth-xcframework (4.8.0):
+  - google-cast-sdk-no-bluetooth-xcframework (4.8.1):
     - Protobuf (~> 3.13)
   - libevent (2.1.12)
   - OpenSSL-Universal (1.1.1100)
@@ -288,11 +288,11 @@ PODS:
   - React-jsinspector (0.69.9)
   - React-logger (0.69.9):
     - glog
-  - react-native-google-cast/NoBluetoothArm (4.8.0):
+  - react-native-google-cast/NoBluetoothArm (4.8.1):
     - google-cast-sdk-no-bluetooth-xcframework
     - React
     - react-native-google-cast/RNGoogleCast
-  - react-native-google-cast/RNGoogleCast (4.8.0):
+  - react-native-google-cast/RNGoogleCast (4.8.1):
     - PromisesObjC
     - React
   - react-native-safe-area-context (4.3.1):
